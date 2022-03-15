@@ -12,7 +12,7 @@ What did I learn that was valuable?
 I now know I can make a game using a DarkGDK using coding references however there's issues with posting it on GitHub.
 
 What are the issues with posting a full DarkGDK Game on Github or another source?
-DarkGDK doesn't cover release software at least from what I know which would be just a game build similar to my Gamemaker 8 project which includes a release build runable on any machine which means file size could be large, viewers would have to recode file image locations, and in addition have to also wait for the possibly long DarkGDK download.
+DarkGDK doesn't cover release software at least from what I know which would be just a game build similar to my Gamemaker 8 project which includes a release build runable on any machine which means for a DarkGDK full game file size could be large, viewers would have to recode file image locations, and in addition have to also wait for the possibly long DarkGDK download.
 
 What will be needed in order to run this project?
 
